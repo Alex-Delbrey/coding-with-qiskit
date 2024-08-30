@@ -7,3 +7,9 @@ This folder's purpose is to follow along Dr. Derek Wang's short youtube series i
 ## ideas-for-projects
 I decided to take the approach of finding random small projects to start on my own. Ideas come from these websites: 
 - [Learn Quantum Computing With These Seven Projects](https://medium.com/qiskit/learn-quantum-computing-with-these-seven-projects-7478d90d125a)
+
+## Websites I have found useful for learning
+- [Qiskit Intro](https://docs.quantum.ibm.com/guides)
+- [Qiskit SDK](https://docs.quantum.ibm.com/api/qiskit)
+- [Pauli strings](https://arxiv.org/pdf/2405.19287#:~:text=In%20quantum%20computing%2C%20the%20Pauli,operator%20called%20a%20Pauli%20string.)
+- [Pauli gates](https://www.sharetechnote.com/html/QC/QuantumComputing_Gate_X.html#:~:text=The%20Pauli%20gates%20are%20a,X%2C%20Y%2C%20and%20Z.)
