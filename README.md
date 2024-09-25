@@ -1,3 +1,4 @@
+# THIS PROJECT IS PAUSED FOR NOW, WORKING ON AN OSS PROJECT:)
 # Qiskit-learning
 Howdy. This repo is my intro to Quantum Computing, specifically using Qiskit. Below you will see a list of folders and what they cover. There is no specific order to these, I'm just trying out different ways of learning Qiskit.
 
